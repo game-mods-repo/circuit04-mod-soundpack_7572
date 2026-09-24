@@ -1,0 +1,32 @@
+{
+  "id": "soundpack_7572",
+  "name": "мимяяяйй",
+  "version": "1.0.0",
+  "author": "йцвй",
+  "description": "йцвйц",
+  "category": "sounds",
+  "tags": [
+    "sound",
+    "audio",
+    "sfx",
+    "circuit04"
+  ],
+  "is_enabled": true,
+  "is_official": false,
+  "downloads_count": 0,
+  "rating": 5.0,
+  "sounds": {
+    "music/Cosmic Horizon (Variant 2).wav": {
+      "file": "sounds/4f566zxfznoxqd.mp3",
+      "volume_db": 0.0,
+      "pitch_scale": 1.0,
+      "original_target": "music/Cosmic Horizon (Variant 2).wav"
+    },
+    "music/cosmic_horizon.ogg": {
+      "file": "sounds/4f566zxfznoxqd_1.mp3",
+      "volume_db": 0.0,
+      "pitch_scale": 1.0,
+      "original_target": "music/cosmic_horizon.ogg"
+    }
+  }
+}
